@@ -4,6 +4,8 @@ A dumb Python Script for quickly removing parts of a filename.
 ![screen-gif](./DemoGif.gif)
 
 ## How to setup (.exe version)
+WARNING! I do not suggest using the .exe version. This is purely here just for n00bs. Git Gud.
+
 Download the latest release and run. (https://github.com/MoonRabbitDev/RomNameCleaner/releases/tag/V0.1)
 
 ## How to Setup (Source Code):
