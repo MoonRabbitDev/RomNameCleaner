@@ -8,7 +8,9 @@ Download the latest release and run. (https://github.com/MoonRabbitDev/RomNameCl
 ### Step 1 - Install Python
 You can download the lastest release here: https://www.python.org/downloads/
 ### Step 2 - Download File
-Recommanded: Install Git (https://git-scm.com/downloads) and follow this tutorial: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+Recommended: Install Git (https://git-scm.com/downloads) and follow this tutorial: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+
+Kindof shitty: Code > Download as ZIP
 
 ## Using the Program
 Open RomCleaner.py, you will be given the following promit
