@@ -1,6 +1,8 @@
 # RomNameCleaner
 A dumb Python Script for quickly removing parts of a filename.
 
+![screen-gif](./DemoGif.gif)
+
 ## How to setup (.exe version)
 Download the latest release and run. (https://github.com/MoonRabbitDev/RomNameCleaner/releases/tag/V0.1)
 
