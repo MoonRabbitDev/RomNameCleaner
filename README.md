@@ -1,7 +1,7 @@
 # RomNameCleaner
 A dumb Python Script for quickly removing parts of a filename.
 
-## How to use:
+## How to use (Source Code):
 ### Step 1 - Install Python
 You can download the lastest release here: https://www.python.org/downloads/
 ### Step 2 - Download File
