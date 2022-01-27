@@ -9,7 +9,7 @@ Download the latest release and Unzip. (https://github.com/MoonRabbitDev/RomName
 
 Put any files that need to be converted into the folder named **PutFilesInHere**.
 
-Run **RomCleaner - EXEVer.exe**.
+Run **RomNameCleaner.exe**.
 
 ## How to Setup (Source Code):
 ### Step 1 - Install Python
