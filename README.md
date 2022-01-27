@@ -23,7 +23,7 @@ You can download the lastest release here: https://www.python.org/downloads/
 
 ### Step 3 - Setup
 
-
+Drop RomCleaner.py into the desired folder and run.
 
 ## Using the Program
 Open **RomCleaner.py/RomCleaner - EXEVer.exe**, you will be given the following promit
