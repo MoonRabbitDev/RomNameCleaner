@@ -22,10 +22,10 @@ You can download the lastest release here: https://www.python.org/downloads/
 
 ### Step 3 - Setup
 
-Drop RomCleaner.py into the desired folder and run.
+Drop RomNameCleaner.py into the desired folder and run.
 
 ## Using the Program
-Open **RomCleaner.py/RomCleaner - EXEVer.exe**, you will be given the following promit
+Open **RomNameCleaner.py/RomNameCleaner.exe**, you will be given the following promit
 
 Rom Name Cleaner V0.1
 Press enter to get rid of the default value (-decrypted), or type in your own string to get rid of:
@@ -35,7 +35,6 @@ Type the word you would like to scrub from any file currently in the folder with
 
 ### Step 4 - Menu
 Next, you will be given the following menu
-
 
 
 ***Options:***
@@ -53,9 +52,6 @@ Next, you will be given the following menu
  ***Type anything else to close the program***
  
  ***Enter your choice here:*** 
-
-
-
 
 
 #### You can type one of the following commands to do a action. (Must hit enter to confirm).
