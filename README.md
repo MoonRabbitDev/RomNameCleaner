@@ -35,6 +35,10 @@ Type 1 to preview what the files would like if the changes were applied. (DOES N
 
 Type 2 to make the changes to the filename. (THERE IS NO UNDO. PLEASE USE THE PREVIEW TO CHECK IT.)
 
-Type 3 to bring back the first menu, allowing you to target a different word. 
+Type 3 to bring back the first menu, allowing you to target a different word.
+
+Type 4 to change between Replace Mode or Remove Mod
+
+Type 5 to get rid of any bad symbols in a folder (Useful for troubleshooting!) 
 
 #### Typing anything besides 1,2,3 and hitting enter will close the program.
